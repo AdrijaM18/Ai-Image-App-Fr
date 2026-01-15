@@ -1,0 +1,9 @@
+# Dependencies
+node_modules/
+
+# Environment Variables (CRITICAL)
+.env
+
+
+# AWS Amplify / AppSync
+amplifyConfig.js
